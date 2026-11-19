@@ -1,0 +1,6 @@
+{
+  "name": "ASTRA NOURWEEY TRANSPORTS | Road Freight & Logistics",
+  "description": "Especialistes en transport per carretera nacional i internacional a Espanya i Europa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
